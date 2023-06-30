@@ -15,11 +15,11 @@ The plugin has a GUI that allows the user to choose what imported functions to t
 
 # Installation
 
-```sh
+```bat
 git clone https://github.com/YoavLevi/IAT-Tracer.git
-cd IAT-Tracer
+cd IAT-Tracer\
 pip install -r requirements.txt
-python ./IAT-Tracer.py
+python .\IAT-Tracer.py
 ```
 # How It Works
 
