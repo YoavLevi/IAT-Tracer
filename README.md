@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/iat-tracer.ico" width="400">
+  <img src="assets/iat-tracer.ico">
 </div>
 
 --------------------------------------------------------------------------------
