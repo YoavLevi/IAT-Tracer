@@ -31,7 +31,6 @@ The offline database was created automatically using a different python script (
 
 # To-Do
 
-- [ ] incomplete task
 - [ ] Add a search-box for manually tracing API functions that are resolved dynamically (e.g., via LoadLibrary and GetProcAddress).
 
 # Issues
