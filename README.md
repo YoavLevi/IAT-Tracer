@@ -31,7 +31,7 @@ The offline database was created automatically using a different python script (
 
 # To-Do
 
-- [] Add a search-box for manually tracing API functions that are resolved dynamically (e.g., via LoadLibrary and GetProcAddress).
+- [ ] Add a search-box for manually tracing API functions that are resolved dynamically (e.g., via LoadLibrary and GetProcAddress).
 
 # Issues
 Use [GitHub Issues](https://github.com/YoavLevi/IAT-Tracer/issues) for posting bugs and feature requests.
