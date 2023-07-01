@@ -14,7 +14,7 @@ Example: tracing and watching interesting API functions from the [Vipasana](http
   <img src="assets/iat-tracer.gif">
 </div>
 
-Potential uses: malware analysis, reverse-engineering, debugging.
+Potential uses: malware analysis, reverse-engineering and debugging.
 # Motivation
 
 Currently, to trace and watch a program with the Tiny-Tracer framework one need to perform several steps manually:
