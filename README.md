@@ -9,9 +9,20 @@ The plugin has a GUI that allows the user to choose what imported functions to t
 
 # Usage
 
+Example: tracing and watching interesting API functions from the [Vipasana](https://github.com/ytisf/theZoo/tree/master/malware/Binaries/Ransomware.Vipasana) ransomware binary.
 <div align="center">
   <img src="assets/iat-tracer.gif">
 </div>
+
+Potential uses: malware analysis, reverse-engineering, debugging.
+# Motivation
+
+Currently, to trace and watch a program with the Tiny-Tracer framework one need to perform several steps manually:
+1. Find out which interesting functions are used by the program.
+2. Find out the library and the number of parameters required by those functions (this step usually requires online access to MSDN for instance).
+3. Write each function library, name and number of parameters the the params.txt file.
+
+The plugin is intended to automate this process, enabling the user to complete steps 1-3 in a matter of seconds.
 
 # Installation
 
