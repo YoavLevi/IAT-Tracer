@@ -1,0 +1,1 @@
+pyinstaller.exe IAT-Tracer.py --onefile --noconsole --icon="<current dir>\assets\iat-tracer.ico" --clean --add-data "<current dir>\assets\*;."
