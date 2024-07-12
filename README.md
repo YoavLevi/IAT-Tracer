@@ -51,6 +51,10 @@ cd IAT-Tracer\
 pip install -r requirements.txt
 python .\IAT-Tracer.py
 ```
+
+A more straightforward way to run the application is using the one-file executable: 
+![image](https://github.com/user-attachments/assets/d3842904-e6c1-4c60-ab84-0ef1dd9697e3)
+
 ## Compatibility
 
 Python 3
